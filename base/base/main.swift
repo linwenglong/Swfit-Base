@@ -14,6 +14,8 @@ var name = "test"
 
 print(name)
 
+print(name)
+
 
 
 
