@@ -8,13 +8,7 @@
 
 import Foundation
 
-print("Hello, World!")
 
-var name = "test"
-
-print(name)
-
-print(name)
 
 
 
